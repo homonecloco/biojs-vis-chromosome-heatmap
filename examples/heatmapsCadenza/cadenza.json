@@ -1,11 +1,101 @@
 {
 	"title": "Cadenza deletions",
 	"genomes": ["A", "B", "D"],
-	"chromosomes":[1,2,3,4,5,6,7],
-	"order": [["1A"]],
+	"chromosomes":["1","2","3","4","5","6","7"],
+	"order": [	["1A","1B","1D"],
+				["2A","2B","2D"],
+				["3A","3B","3D"],
+				["4A","4B","4D"],
+				["5A","5B","5D"],
+				["6A","6B","6D"],
+				["7A","7B","7D"]],
 	"heatmaps": 
-	[{
+	{
+		"1A":{
 			"name" : "1A",
 			"url" : "heatmapsCadenza/chr1A_heatmap.txt"
-	}]
+		},
+		"1B":{
+			"name" : "1B",
+			"url" : "heatmapsCadenza/chr1B_heatmap.txt"
+		},
+		"1D":{
+			"name" : "1D",
+			"url" : "heatmapsCadenza/chr1D_heatmap.txt"
+		},
+		"2A":{
+			"name" : "2A",
+			"url" : "heatmapsCadenza/chr2A_heatmap.txt"
+		},
+		"2B":{
+			"name" : "2B",
+			"url" : "heatmapsCadenza/chr2B_heatmap.txt"
+		},
+		"2D":{
+			"name" : "2D",
+			"url" : "heatmapsCadenza/chr2D_heatmap.txt"
+		},
+		"3A":{
+			"name" : "3A",
+			"url" : "heatmapsCadenza/chr3A_heatmap.txt"
+		},
+		"3B":{
+			"name" : "3B",
+			"url" : "heatmapsCadenza/chr3B_heatmap.txt"
+		},
+		"3D":{
+			"name" : "3D",
+			"url" : "heatmapsCadenza/chr3D_heatmap.txt"
+		},
+		"4A":{
+			"name" : "4A",
+			"url" : "heatmapsCadenza/chr4A_heatmap.txt"
+		},
+		"4B":{
+			"name" : "4B",
+			"url" : "heatmapsCadenza/chr4B_heatmap.txt"
+		},
+		"4D":{
+			"name" : "4D",
+			"url" : "heatmapsCadenza/chr4D_heatmap.txt"
+		},
+		"5A":{
+			"name" : "5A",
+			"url" : "heatmapsCadenza/chr5A_heatmap.txt"
+		},
+		"5B":{
+			"name" : "5B",
+			"url" : "heatmapsCadenza/chr5B_heatmap.txt"
+		},
+		"5D":{
+			"name" : "5D",
+			"url" : "heatmapsCadenza/chr5D_heatmap.txt"
+		},
+		"6A":{
+			"name" : "6A",
+			"url" : "heatmapsCadenza/chr6A_heatmap.txt"
+		},
+		"6B":{
+			"name" : "6B",
+			"url" : "heatmapsCadenza/chr6B_heatmap.txt"
+		},
+		"6D":{
+			"name" : "6D",
+			"url" : "heatmapsCadenza/chr6D_heatmap.txt"
+		},
+		"7A":{
+			"name" : "7A",
+			"url" : "heatmapsCadenza/chr7A_heatmap.txt"
+		},
+		"7B":{
+			"name" : "7B",
+			"url" : "heatmapsCadenza/chr7B_heatmap.txt"
+		},
+		"7D":{
+			"name" : "7D",
+			"url" : "heatmapsCadenza/chr7D_heatmap.txt"
+		}
+
+
+	}
 }
